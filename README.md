@@ -6,7 +6,7 @@ The school board and superindentants require standardized test analysis, reporti
 
 After the initial analysis, evidence showed academic dishonesty among the reading and math grades for Thomas High School ninth graders. The school board wants to uphold state-testing standards and requests that the ninth grade math and reading scores for Thomas High School be replaced. The analysis will be repeated and changes in the overall analysis will be described.
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results:
 
 * How is the district summary affected?
 
@@ -20,17 +20,11 @@ Repeated district summary analysis:
 
 * How is the school summary affected?
 
-      The only school in the school summary analysis that was affected by the changes is Thomas High School.
+      The only school in the school summary analysis that was affected by the changes is Thomas High School. All changes are less than 1 point or 1% different. The average math score increased slightly and the average reading score decreased slightly. The overall passing score went up by 0.3%.
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-Initial school summary analysis:
-<img width="1178" alt="Initial_district_summary" src="https://user-images.githubusercontent.com/106785377/183273064-cf5e5526-be62-4999-81ea-6fae9e13f889.png">
-
-Repeated school summary analysis:
-<img width="1178" alt="Repeated_district_summary" src="https://user-images.githubusercontent.com/106785377/183273065-496f26bb-3f84-431f-ba15-f8e89b3a908e.png">
-
-      The school summary for Thomas High School is largely unaffected by removing the ninth grader reading and math scores from the analysis.
+      Thomas High School remains in second place for performance relative to other schools.
 
 * How does replacing the ninth-grade scores affect the following:
     * Math and reading scores by grade
@@ -51,7 +45,7 @@ Repeated reading scores by grade:
 
 <img width="358" alt="Repeated_ReadingScoresbyGrade" src="https://user-images.githubusercontent.com/106785377/183273749-93baf675-031d-4051-8cd5-b9ba2ba77c32.png">
 
-            Ninth grade scores are Nan for math and reading in the repeated analysis.
+            Ninth grade scores are Nan for math and reading in the repeated analysis. 
 
    * Scores by school spending
 
