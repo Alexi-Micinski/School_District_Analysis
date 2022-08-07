@@ -30,12 +30,28 @@ Initial school summary analysis:
 Repeated school summary analysis:
 <img width="1178" alt="Repeated_district_summary" src="https://user-images.githubusercontent.com/106785377/183273065-496f26bb-3f84-431f-ba15-f8e89b3a908e.png">
 
-      The school summary for Thomas High School is largely unaffected by removing the ninth grader reading and math scores from the          analysis.
+      The school summary for Thomas High School is largely unaffected by removing the ninth grader reading and math scores from the analysis.
 
 * How does replacing the ninth-grade scores affect the following:
     * Math and reading scores by grade
 
-            answer
+Initial math scores by grade
+
+<img width="356" alt="Initial_MathScoresbyGrade" src="https://user-images.githubusercontent.com/106785377/183273734-d30f36b3-5c89-45db-8d81-2af6d1120ed6.png">
+
+Initial reading scores by grade
+
+<img width="361" alt="Initial_ReadingScoresbyGrade" src="https://user-images.githubusercontent.com/106785377/183273738-09b89464-a925-41e1-ab3c-1a90c5157a49.png">
+
+Repeated math scores by grade
+
+<img width="361" alt="Repeated_MathScoresbyGrade" src="https://user-images.githubusercontent.com/106785377/183273742-35be9025-322d-49a5-b037-ca18a6393d09.png">
+
+Repeated reading scores by grade
+
+<img width="358" alt="Repeated_ReadingScoresbyGrade" src="https://user-images.githubusercontent.com/106785377/183273749-93baf675-031d-4051-8cd5-b9ba2ba77c32.png">
+
+            Ninth grate scores are Nan for math and reading in the repeated analysis.
 
     * Scores by school spending
 
