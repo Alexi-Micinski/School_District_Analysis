@@ -35,35 +35,35 @@ Repeated school summary analysis:
 * How does replacing the ninth-grade scores affect the following:
     * Math and reading scores by grade
 
-Initial math scores by grade
+Initial math scores by grade:
 
 <img width="356" alt="Initial_MathScoresbyGrade" src="https://user-images.githubusercontent.com/106785377/183273734-d30f36b3-5c89-45db-8d81-2af6d1120ed6.png">
 
-Initial reading scores by grade
+Initial reading scores by grade:
 
 <img width="361" alt="Initial_ReadingScoresbyGrade" src="https://user-images.githubusercontent.com/106785377/183273738-09b89464-a925-41e1-ab3c-1a90c5157a49.png">
 
-Repeated math scores by grade
+Repeated math scores by grade:
 
 <img width="361" alt="Repeated_MathScoresbyGrade" src="https://user-images.githubusercontent.com/106785377/183273742-35be9025-322d-49a5-b037-ca18a6393d09.png">
 
-Repeated reading scores by grade
+Repeated reading scores by grade:
 
 <img width="358" alt="Repeated_ReadingScoresbyGrade" src="https://user-images.githubusercontent.com/106785377/183273749-93baf675-031d-4051-8cd5-b9ba2ba77c32.png">
 
-            Ninth grate scores are Nan for math and reading in the repeated analysis.
+            Ninth grade scores are Nan for math and reading in the repeated analysis.
 
-    * Scores by school spending
+   * Scores by school spending
 
-            answer
+            The scores by school spending are not affected by the changes made in the repeated analysis.
 
-    * Scores by school size
+   * Scores by school size
 
-            answer
+            The scores by school size are not affected by the changes made in the repeated analysis.
 
-    * Scores by school type
+   * Scores by school type
 
-            answer
+            The scores by school type are not affected by the changes made in the repeated analysis.
 
 ## Summary: 
 
