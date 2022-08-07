@@ -16,11 +16,11 @@ Initial district summary analysis:
 Repeated district summary analysis:
 <img width="1117" alt="Challenge_district_summary_df" src="https://user-images.githubusercontent.com/106785377/183272816-b0fda4b2-295b-40d1-8a5d-975e9d68484e.png">
 
-   The district summary is largely unaffected by removing the Thomas High School ninth grader reading and math scores from the analysis.
+      The district summary is largely unaffected by removing the Thomas High School ninth grader reading and math scores from the analysis.
 
 * How is the school summary affected?
 
-   The only school in the school summary analysis that was affected by the changes is Thomas High School.
+      The only school in the school summary analysis that was affected by the changes is Thomas High School.
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -30,7 +30,7 @@ Initial school summary analysis:
 Repeated school summary analysis:
 <img width="1178" alt="Repeated_district_summary" src="https://user-images.githubusercontent.com/106785377/183273065-496f26bb-3f84-431f-ba15-f8e89b3a908e.png">
 
-   The school summary for Thomas High School is largely unaffected by removing the ninth grader reading and math scores from the          analysis.
+      The school summary for Thomas High School is largely unaffected by removing the ninth grader reading and math scores from the          analysis.
 
 * How does replacing the ninth-grade scores affect the following:
     * Math and reading scores by grade
