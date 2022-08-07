@@ -20,7 +20,7 @@ Repeated district summary analysis:
 
 * How is the school summary affected?
 
-   The only school in the school summary analysis that was affected by the changes is Thomas High School
+   The only school in the school summary analysis that was affected by the changes is Thomas High School.
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -35,19 +35,19 @@ Repeated school summary analysis:
 * How does replacing the ninth-grade scores affect the following:
     * Math and reading scores by grade
 
-         answer
+            answer
 
     * Scores by school spending
 
-         answer
+            answer
 
     * Scores by school size
 
-         answer
+            answer
 
     * Scores by school type
 
-         answer
+            answer
 
 ## Summary: 
 
