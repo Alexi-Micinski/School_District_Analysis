@@ -2,15 +2,36 @@
 
 ## Overview
 
-School board and superindentants require standardized test analysis, reporting, and presentation to provide insights about performance, trends, and patterns, which be used to make informed decisions at the school and district level. Student funding and standarized test scores will be analyzed using math and reading score data. The data will be aggregated to show trends in school performance.
+The school board and superindentants require standardized test analysis, reporting, and presentation to provide insights about performance, trends, and patterns, which will be used to make informed decisions at the school and district levels. Student funding and standarized test scores will be analyzed using math and reading score data, and the data will be aggregated to show trends in school performance.
 
-After the initial analysis, evidence showed academic dishonesty among the reading and math grades for Thomas High School ninth graders. The school board wants to uphold state-testing standards and has asked that the ninth grade math and reading scores for Thomas High School be replaced. The analysis will then be repeated and changes in the overall analysis will be described.
+After the initial analysis, evidence showed academic dishonesty among the reading and math grades for Thomas High School ninth graders. The school board wants to uphold state-testing standards and requests that the ninth grade math and reading scores for Thomas High School be replaced. The analysis will be repeated and changes in the overall analysis will be described.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 * How is the district summary affected?
+
+Initial analysis:
+<img width="1113" alt="PyCitySchools_district_summary_df" src="https://user-images.githubusercontent.com/106785377/183272812-fdb6f85f-ef63-425d-abf7-74fbcc051db7.png">
+
+Repeated analysis:
+<img width="1117" alt="Challenge_district_summary_df" src="https://user-images.githubusercontent.com/106785377/183272816-b0fda4b2-295b-40d1-8a5d-975e9d68484e.png">
+
+The district summary is largely unaffected by removing the Thomas High School ninth grader reading and math scores from the analysis.
+
 * How is the school summary affected?
+
+Initial analysis:
+<img width="1178" alt="Initial_district_summary" src="https://user-images.githubusercontent.com/106785377/183273064-cf5e5526-be62-4999-81ea-6fae9e13f889.png">
+
+Repeated analysis:
+<img width="1178" alt="Repeated_district_summary" src="https://user-images.githubusercontent.com/106785377/183273065-496f26bb-3f84-431f-ba15-f8e89b3a908e.png">
+
+The school summary for Thomas High School is largely unaffected by removing the ninth grader reading and math scores from the analysis.
+
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+
+
 * How does replacing the ninth-grade scores affect the following:
     * Math and reading scores by grade
     * Scores by school spending
