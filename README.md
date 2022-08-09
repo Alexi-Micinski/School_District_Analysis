@@ -45,7 +45,7 @@ Repeated reading scores by grade:
 
 <img width="358" alt="Repeated_ReadingScoresbyGrade" src="https://user-images.githubusercontent.com/106785377/183273749-93baf675-031d-4051-8cd5-b9ba2ba77c32.png">
 
-            Ninth grade scores are Nan for math and reading in the repeated analysis. 
+            Ninth grade scores are Nan for math and reading in the repeated analysis. This results in slight changes to the 10th, 11th, and 12th grade percentages.
 
    * Scores by school spending
 
