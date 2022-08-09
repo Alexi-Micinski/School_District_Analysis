@@ -61,4 +61,4 @@ Repeated reading scores by grade:
 
 ## Summary: 
 
-The total number of students and math and reading scores at Thomas High School changed, resulting in Thomas High School's average math score increasing, the average reading score decreasing, and the overall passing score for Thomas High School incresing.
+The math and reading scores for ninth graders at Thomas High School were omitted, resulting in Thomas High School's average math score increasing, the average reading score decreasing, and the overall passing score for Thomas High School incresing.
