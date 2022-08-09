@@ -45,7 +45,7 @@ Repeated reading scores by grade:
 
 <img width="358" alt="Repeated_ReadingScoresbyGrade" src="https://user-images.githubusercontent.com/106785377/183273749-93baf675-031d-4051-8cd5-b9ba2ba77c32.png">
 
-            Ninth grade scores are Nan for math and reading in the repeated analysis. This results in slight changes to the 10th, 11th, and 12th grade percentages.
+            Ninth grade scores are Nan for math and reading in the repeated analysis. This doesn't change any of the other scores.
 
    * Scores by school spending
 
@@ -61,4 +61,4 @@ Repeated reading scores by grade:
 
 ## Summary: 
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+The total number of students and math and reading scores at Thomas High School changed, resulting in Thomas High School's average math score increasing, the average reading score decreasing, and the overall passing score for Thomas High School incresing.
